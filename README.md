@@ -10,13 +10,13 @@ The player has three attempts to guess the correct number.
 The game also gives hints like:
 - Too high
 - Too low
-- 
+ 
 ## Features 
 - Random Number Generation
 - 3 Attempts
 - Score System
 - High and Low Hints
-- 
+ 
  ## Concepts Used
 - Variables
 - Input/Output
